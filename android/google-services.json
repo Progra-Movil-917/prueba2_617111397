@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789156060065",
+    "project_id": "crudcitas-52feb",
+    "storage_bucket": "crudcitas-52feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789156060065:android:a0a87a41c9eca0a6ab89e0",
+        "android_client_info": {
+          "package_name": "com.example.prueba2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8DvytoKLVMEWvTZRhbL2X54QZHc2cfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
